@@ -15,10 +15,11 @@ Constraints:
 -10**9 <= target <= 10**9
 Only one valid answer exists.
 
-
+Successfully Submitted
 Created on Sat Feb 20 16:55:46 2021
 
-@author: christopher obuchere
+@author: Christopher Obuchere
+
 """
 #
 nums = [2,7,11,15, 100000000000000]

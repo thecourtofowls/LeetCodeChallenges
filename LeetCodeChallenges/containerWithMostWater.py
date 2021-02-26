@@ -10,7 +10,7 @@ forms a container, such that the container contains the most water.
 Time Limit Exceeeded
 Created on Sat Feb 20 17:19:03 2021
 
-@author: BACH
+@author: Christopher Obuchere
 """
 
 height = [1,1]#1
