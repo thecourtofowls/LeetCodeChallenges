@@ -16,6 +16,7 @@ Constraints:
 1. 0 <= haystack.length, needle.length <= 5 * 104
 2. haystack and needle consist of only lower-case English characters.
 
+Submitted Successfully
 
 Created on Fri Mar 12 14:03:30 2021
 
