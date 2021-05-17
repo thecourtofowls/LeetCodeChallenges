@@ -11,6 +11,12 @@ input array in-place with O(1) extra memory.
 The order of elements can be changed. It doesn't matter what you leave beyond 
 the new length.
 
+Constraints:
+
+0 <= nums.length <= 100
+0 <= nums[i] <= 50
+0 <= val <= 100
+
 Submitted Successfully
 Created on Mon May 17 13:06:58 2021
 
